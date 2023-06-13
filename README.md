@@ -40,3 +40,4 @@ Provide detailed information on your product and how to run it here
 3. View the results:
 
    The application will process the booking data and generate a table showing the number of passengers per country, per day of the week, per season. The results will be printed to the console or saved to an output file, depending on your implementation.
+![](../../../Desktop/Screenshot 2023-06-13 at 4.50.15 PM.png)
